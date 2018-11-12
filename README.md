@@ -1,0 +1,3 @@
+- This .tmux.config is located in ~/.tmux.config
+- This config file is used in WSL/HP-EliteBook-840-G5 and Ubuntu-16.04/HP-EliteBook-8470p
+- Keep the default binding key (Ctrl+B) unchanged
